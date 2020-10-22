@@ -1,8 +1,5 @@
 import org.testng.annotations.Test;
 
-import java.sql.*;
-
-
 /**
  * BuyMe Test Sanity.
  * Software that testing site https://buyme.co.il
